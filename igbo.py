@@ -1,0 +1,22 @@
+igbo = {
+    "water": "mmiri",
+    "food": "nri",
+    "house": "ulo",
+    "man": "nwoke",
+    "woman": "nwanyi",
+    "child": "nwa",
+    "sun": "anyu anwu",
+    "moon": "onwa",
+    "book": "akwukwo",
+    "school": "ulo akwukwo",
+    "road": "uzo",
+    "friend": "enyi",
+    "love": "ihunanya",
+    "money": "ego",
+    "time": "oge",
+    "work": "oru",
+    "day": "ubochi",
+    "night": "abali",
+    "tree": "osisi",
+    "fire": "oku"
+}
